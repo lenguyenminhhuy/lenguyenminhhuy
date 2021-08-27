@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/lenguyenminhhuy.svg?style=social&label=Follow)](https://github.com/lenguyenminhhuy?tab=followers)
 
 <p>
- <b> Hi </b>,🙈👋😎🔥🌸💄🇻🇳
+ <b> Hi</b>,🙈👋😎🔥🌸💄🇻🇳
  <samp>
   
   I'm Le Nguyen Minh Huy currently a Senior student majoring in Computer Science at <a href="http://www.rmit.edu.vn/"> RMIT </a> University. <br/>
