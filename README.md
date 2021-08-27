@@ -21,3 +21,9 @@
    </samp>
 </p>
 
+
+### Language and Models
+<img alt="pytorch" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131100370-0f6a4dba-98c2-4106-a680-4fa2b0c91a4b.png" /> <img alt="neuralnetwork" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131101457-191dedd2-6a40-47be-85fd-47a0e7ce3d1a.png" /> <img alt="bert" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131101785-d1adf3c9-c7be-471e-a0c3-88785f98dd66.png" /> <img alt="lstm" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131101991-c5ccd851-bb9e-4a66-8af8-fbbe1db26f4c.png" /> <img alt="cnn" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131102416-cfc4f4d8-183d-4061-92d2-aa4bbe6aa8fc.png" />  <img alt="gan" width="26px" height="24px" src="https://user-images.githubusercontent.com/54904166/131102546-50887657-c131-4b42-bca7-883dd31c8e0d.png" /> 
+
+
+
