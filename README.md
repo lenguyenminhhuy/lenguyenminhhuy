@@ -7,10 +7,11 @@
 </p>
 <hr/>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lenguyenminhhuy.lenguyenminhhuy)](https://github.com/lenguyenminhhuy) [![GitHub followers](https://img.shields.io/github/followers/lenguyenminhhuy.svg?style=social&label=Follow)](https://github.com/lenguyenminhhuy?tab=followers)
+<!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lenguyenminhhuy.lenguyenminhhuy)](https://github.com/lenguyenminhhuy)  -->
+[![GitHub followers](https://img.shields.io/github/followers/lenguyenminhhuy.svg?style=social&label=Follow)](https://github.com/lenguyenminhhuy?tab=followers)
 
 <p>
- <b> Hi </b>,🙈👋😎😆🔥🌸 
+ <b> Hi </b>,🙈👋😎🔥🌸💄🇻🇳
  <samp>
   
   I'm Le Nguyen Minh Huy currently a Senior student majoring in Computer Science at <a href="http://www.rmit.edu.vn/"> RMIT </a> University. <br/>
@@ -19,9 +20,37 @@
  </samp>
 </p>
 <hr/>
-<p>
-    👀 I’m currently learning all about <b>Deep Learning</b>, both Computer Vision and Natural Language Processing.
-</p>
+
+👀 I’m currently learning all about <b>Deep Learning</b>, both ``Computer Vision`` and ``Natural Language Processing``.
+
+**Data Science Coursework**: 
+
+   - Machine Learning
+   - Big Data for Engineering
+   - Business Statistic
+   - Natural Language Processing with Deep Learning
+   - Convolutional Neural Networks for Visual Recognition
+   - Machine Learning Engineering for Production (MLOps)
+ 
+ **Programming Coursework**: 
+ 
+   - Python programming
+   - Cloud Computing
+   - Object Oriented Programming
+   - Algorithms and Analysis
+
+I'm best reached via <a href="mailto:leemii1802@gmail.com"> 💌</a> 
+
+#### Another me:
+
+
+[<img align="left" alt="lenguyenminhhuy | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/54904166/131108704-7847968f-434d-4190-9988-35268014d857.png" />][linkedin]
+[<img align="left" alt="lenguyenminhhuy | Facebook" width="22px" src="https://user-images.githubusercontent.com/54904166/131108827-e7888d34-ddac-450b-b47d-b1a4ef882986.png" />][facebook]
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/lenguyenminhhuy/
+[facebook]: https://www.facebook.com/leemii.18th/
+
 <!-- 
 
 ### Language and Models
