@@ -14,7 +14,7 @@
  <b> Hi</b>, 🙈👋😎🔥🌸💄🇻🇳
  <samp>
   
-  I'm Le Nguyen Minh Huy currently a Senior student majoring in Computer Science at <a href="http://www.rmit.edu.vn/"> RMIT </a> University. <br/>
+  I'm Le Nguyen Minh Huy currently a Senior student majoring in Information Technology at <a href="http://www.rmit.edu.vn/"> RMIT </a> University. <br/>
 💥 At the very first days of the journey, I am really interested in Data Science and always dream of being a Data Scientist 💌 <br/> 
 💡 Then, I found more interests in Bioinformatics and desire to apply the knowledge I’ve learned about Machine Learning to the medical field. 🌟 💫 📍
  </samp>
