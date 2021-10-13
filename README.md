@@ -22,7 +22,7 @@
 <hr/>
 
 👀 I’m currently learning all about <b>Deep Learning</b>, both ``Computer Vision`` and ``Natural Language Processing``.
-
+<!-- 
 **Data Science Coursework**: 
 
    - Machine Learning
@@ -37,7 +37,7 @@
    - Python programming
    - Cloud Computing
    - Object Oriented Programming
-   - Algorithms and Analysis
+   - Algorithms and Analysis -->
 
 I'm best reached via <a href="mailto:leemii1802@gmail.com"> 💌</a> 
 
