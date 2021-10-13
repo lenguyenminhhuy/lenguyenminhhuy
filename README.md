@@ -19,7 +19,6 @@
 💡 Then, I found more interests in Bioinformatics and desire to apply the knowledge I’ve learned about Machine Learning to the medical field. 🌟 💫 📍
  </samp>
 </p>
-<hr/>
 
 👀 I’m currently learning all about <b>Deep Learning</b>, both ``Computer Vision`` and ``Natural Language Processing``.
 <!-- 
