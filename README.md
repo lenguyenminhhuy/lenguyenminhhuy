@@ -14,29 +14,19 @@
  <b> Hi</b>, 🙈👋😎🔥🌸💄🇻🇳
  <samp>
   
-  I'm Le Nguyen Minh Huy currently a Senior student majoring in Information Technology at <a href="http://www.rmit.edu.vn/"> RMIT </a> University. <br/>
+  I'm Le Nguyen Minh Huy. I graduated with a Bachelor's degree in Information Technology from the Royal Melbourne Institute of Technology (RMIT) with distinction. <br/>
+  
 💥 At the very first days of the journey, I am really interested in Data Science and always dream of being a Data Scientist 💌 <br/> 
-💡 Then, I found more interests in Bioinformatics and desire to apply the knowledge I’ve learned about Machine Learning to the medical field. 🌟 💫 📍
+💡 Then, I found more interests in Bioinformatics and desire to apply the knowledge I’ve learned about Machine Learning to the medical field. 🌟 💫 📍 <br/>
+
+ I'm currently a Data Engineer at Parcel Perform company. I found precious experiences while working here. The nature of distributed systems at the company and the need to process massive amounts of complex data helped me explore different big data tools such as Apache Flink and Apache Kafka. I have broadened the knowledge in data science project lifecycle, by transferring and transforming the data to feed into the ML models.
+
+ 
  </samp>
 </p>
 
-👀 I’m currently learning all about <b>Deep Learning</b>, both ``Computer Vision`` and ``Natural Language Processing``.
-<!-- 
-**Data Science Coursework**: 
+👀 I’m also currently learning all about <b>Deep Learning</b>, both ``Computer Vision`` and ``Natural Language Processing``.
 
-   - Machine Learning
-   - Big Data for Engineering
-   - Business Statistic
-   - Natural Language Processing with Deep Learning
-   - Convolutional Neural Networks for Visual Recognition
-   - Machine Learning Engineering for Production (MLOps)
- 
- **Programming Coursework**: 
- 
-   - Python programming
-   - Cloud Computing
-   - Object Oriented Programming
-   - Algorithms and Analysis -->
 
 I'm best reached via <a href="mailto:leemii1802@gmail.com"> 💌</a> 
 
